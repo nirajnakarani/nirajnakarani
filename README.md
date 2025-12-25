@@ -84,7 +84,7 @@ I enjoy working at the intersection of **Backend, AI, and Product Engineering** 
   </div>
 </details>
 
-<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 ## 🤝 Let’s Build Something Impactful
