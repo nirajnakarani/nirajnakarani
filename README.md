@@ -1,7 +1,7 @@
-## 🚀 Niraj Nakarani | AI-Driven Web Developer
+## 🚀 Niraj Nakarani | AI-Driven Backend Developer
 
 <p align="center">
-  <b>Building scalable web apps • Integrating AI into real products • Performance-focused frontend</b>
+  <b>Building scalable Backend • Integrating AI into real products • Performance-focused backend</b>
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 
 I’m a **Backend Developer with ~1.5 years of hands-on experience**, focused on:
 
-- ⚡ Building **high-performance, scalable web applications**
+- ⚡ Building **high-performance, scalable Backend application**
 - 🤖 **Integrating AI** into real-world products (not just demos)
 - 🧠 Writing **clean, maintainable backend architecture**
 - 🚀 Deploying & scaling apps using modern DevOps tools
@@ -30,7 +30,7 @@ I enjoy working at the intersection of **Backend, AI, and Product Engineering** 
 
 ## 🧠 Core Strengths
 
-- Scalable **React & Next.js architecture**
+- Scalable **MVC architecture**
 - Performance optimization & clean state management
 - AI feature integration (recommendations, automation, personalization)
 - SEO, ads, hydration & production debugging
