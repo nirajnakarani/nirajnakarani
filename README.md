@@ -66,11 +66,11 @@ I enjoy working at the intersection of **Backend, AI, and Product Engineering** 
         <img width="330" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=nirajnakarani&langs_count=8&layout=compact&theme=dark&border_radius=10&hide_border=true" alt="top langs" />
       </a>
     </span>
-    <span>
+    <!-- <span>
       <a>
         <img height="180" src="https://github-readme-stats.vercel.app/api/wakatime?username=nirajnakarani&layout=compact&langs_count=6&theme=dark&border_radius=10&hide_border=true" />
       </a>
-    </span>
+    </span> -->
     <span>
       <a>
         <img width="410" src="https://github-readme-stats-salesp07.vercel.app/api?username=nirajnakarani&count_private=true&show_icons=true&theme=dark&rank_icon=github&hide_border=true&border_radius=10" alt="readme stats" />
