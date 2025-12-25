@@ -30,11 +30,15 @@ I enjoy working at the intersection of **Backend, AI, and Product Engineering** 
 
 ## 🧠 Core Strengths
 
-- Scalable **MVC architecture**
-- Performance optimization & clean state management
-- AI feature integration (recommendations, automation, personalization)
-- SEO, ads, hydration & production debugging
-- Writing code that scales with users and teams
+- Scalable **backend architecture** (MVC / layered / modular systems)
+- High-performance **API design & optimization**
+- Clean **business logic & data modeling**
+- Database design, indexing & caching for performance
+- **AI integration** (automation, recommendations, personalization)
+- Secure authentication, authorization & role-based access control
+- Production debugging, monitoring & performance tuning
+- Backend support for SEO (SSR data, metadata APIs)
+- Writing code that **scales with users and teams**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -89,5 +93,9 @@ I enjoy working at the intersection of **Backend, AI, and Product Engineering** 
 - 📬 Email: **nakaraniniraj87580@gmail.com**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🐍 Contribution Graph  
+
+<img src="https://github.com/user-attachments/assets/800c7807-298d-415f-8081-e7d5d982555c" />
 
 ### ⭐ If you like my work, consider starring a repository — it really helps!
